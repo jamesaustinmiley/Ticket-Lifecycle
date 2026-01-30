@@ -1,1 +1,1 @@
-# osTicket-Ticket-Lifecycle-
+# Ticket Lifecycle

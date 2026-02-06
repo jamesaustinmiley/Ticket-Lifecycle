@@ -29,7 +29,7 @@ The first ticket is created by an end-user named Karen. Karen is working at a ba
 <br />
 
 <p>
-Log in to osTicket as a Help Desk Agent (John) to observe and set the ticket's properties. At first, you will notice that John is only allowed to view the ticket and not make changes. Make sure that John, who is a member of the Support Department, is granted All Access so that you can set ticket properties. As John, update the Priority Level, SLA plan, Help Topic, Department, and who the ticket is assigned to. 
+Log in to osTicket as a Help Desk Agent (John) to observe and set the ticket's properties. At first, you will notice that John is only allowed to view the ticket and not make changes. Make sure that John, who is a member of the Support Department, is granted All Access so that you can set ticket properties. As John, update the Priority Level, SLA plan, Help Topic, Department, and assign the ticket to Jane. 
 </p>
 <p>
 <img src="https://imgur.com/OmbEz2H.png" alt="New Ticket"/>
@@ -57,6 +57,26 @@ Log in to osTicket as a Help Desk Agent (John) to observe and set the ticket's p
 </p>
 <p>
 <img src="https://imgur.com/ZCiB8x1.png" alt="SysAdmins"/>
+</p>
+<br />
+
+<p>
+Log back into osTicket as Jane and work the ticket to completion. 
+</p>
+<p>
+<img src="https://imgur.com/E8j60we.png" alt="Open Ticket"/>
+</p>
+<p>
+<img src="https://imgur.com/vlybYVb.png" alt="Ticket Observation"/>
+</p>
+<p>
+<img src="https://imgur.com/S3sknJ8.png" alt="Ticket Observation 2"/>
+</p>
+<p>
+<img src="https://imgur.com/6hx0tca.png" alt="Ticket Resolution"/>
+</p>
+<p>
+<img src="https://imgur.com/XyiVPIU.png" alt="Close Ticket"/>
 </p>
 <br />
 

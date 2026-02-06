@@ -29,7 +29,7 @@ The first ticket is created by an end-user named Karen. Karen is working at a ba
 <br />
 
 <p>
-Log in to osTicket as a Help Desk Agent (John) to observe and set the ticket's properties. At first, you will notice that John is only allowed to view the ticket and not make changes. Make sure that John, who is a member of the Support Department, is granted All Access so that you can set ticket properties. As John, update the Priority Level, SLA plan, Help Topic, Department, and assign the ticket to Jane. 
+Log in to osTicket as a Help Desk Agent (John) to observe and set the ticket's properties. At first, you will notice that John is only allowed to view the ticket and not make changes. Make sure that John, who is a member of the Support Department, is granted All Access so that you can set ticket properties. As John, you will update the Priority Level, SLA plan, Help Topic, Department, and assign the ticket to Jane, a member of the SysAdmins department with administrative privileges, after determining that the ticket needs to be passed along to someone in a higher department. 
 </p>
 <p>
 <img src="https://imgur.com/OmbEz2H.png" alt="New Ticket"/>
@@ -61,7 +61,7 @@ Log in to osTicket as a Help Desk Agent (John) to observe and set the ticket's p
 <br />
 
 <p>
-Log back into osTicket as Jane and work the ticket to completion. 
+Log back into osTicket as Jane and work the ticket to completion. You determine the online banking system outage was caused by a configuration issue which is resolved after a restart of the system. 
 </p>
 <p>
 <img src="https://imgur.com/E8j60we.png" alt="Open Ticket"/>
@@ -81,3 +81,22 @@ Log back into osTicket as Jane and work the ticket to completion.
 <br />
 
 <p>
+The second ticket is created by an end-user named Ken. The ticket states that some people in the accounting department are unable to use Adobe Reader. Once again, log in to osTicket as John, the help desk agent, to observe the ticket and make changes to its properties if necessary. After updating the Priority Level and SLA Plan, you determine that you are capable of working the ticket to completion without assigning the ticket to anyone else. 
+</p>
+<p>
+<img src="https://imgur.com/xP2XG0o.png" alt="Ken's Ticket"/>
+</p>
+<p>
+<img src="https://imgur.com/IKJ96fz.png" alt="John's Ticket"/>
+</p>
+<p>
+<img src="https://imgur.com/SUKtRha.png" alt="Ticket 341683"/>
+</p>
+<p>
+<img src="https://imgur.com/8aQcA8t.png" alt="Update Priority Level"/>
+</p>
+<p>
+<img src="https://imgur.com/tBjEqAq.png" alt="Update SLA Plan"/>
+</p>
+<p>
+<img src="

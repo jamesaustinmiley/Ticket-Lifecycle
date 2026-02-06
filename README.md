@@ -81,7 +81,7 @@ Log back into osTicket as Jane and work the ticket to completion. You determine 
 <br />
 
 <p>
-The second ticket is created by an end-user named Ken. The ticket states that some people in the accounting department are unable to use Adobe Reader. Once again, log in to osTicket as John, the help desk agent, to observe the ticket and make changes to its properties if necessary. After updating the Priority Level and SLA Plan, you determine that you are capable of working the ticket to completion without assigning the ticket to anyone else. 
+The second ticket is created by an end-user named Ken. The ticket states that some people in the accounting department are unable to use Adobe Reader. Once again, log in to osTicket as John, the help desk agent, to observe the ticket and make changes to its properties if necessary. After updating the Priority Level and SLA Plan, you determine that you are capable of working the ticket to completion without assigning the ticket to anyone else. The issue turns out to be a problem with the deployment of an update for Adobe Reader. Once the update was manually installed to the affected people, the issue was resolved. 
 </p>
 <p>
 <img src="https://imgur.com/xP2XG0o.png" alt="Ken's Ticket"/>
@@ -99,4 +99,8 @@ The second ticket is created by an end-user named Ken. The ticket states that so
 <img src="https://imgur.com/tBjEqAq.png" alt="Update SLA Plan"/>
 </p>
 <p>
-<img src="
+<img src="https://imgur.com/dLV5AzL.png" alt="Ticket Resolution"/>
+</p>
+<p>
+<img src="https://imgur.com/t4gZoDA.png" alt="Closing Ticket"/>
+</p>

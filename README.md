@@ -89,7 +89,7 @@ John Doe has determined that the ticket needs to be escalated to a higher depart
 <br />
 
 <p>
-Log in as Jane Doe. Find Ticket 661413 in the Open Tickets list and begin working the ticket to completion. 
+Log in as Jane Doe. Find Ticket 661413 in the Open Tickets list and begin working the ticket. 
 </p>
 <p>
 <img src="https://imgur.com/SJMpuNT.png" alt="Jane"/>
@@ -99,6 +99,8 @@ Log in as Jane Doe. Find Ticket 661413 in the Open Tickets list and begin workin
 </p>
 <img src="https://imgur.com/QaP9XZj.png" alt="Jane Ticket 661413"/>
 </p>
+<p>
+Determine the solution to the ticket issue. Record your findings in the ticket thread. Close the ticket. 
 <img src="https://imgur.com/Pqw5oxK.png" alt="Jane Doe Ticket Solution"/>
 </p>
 <p>

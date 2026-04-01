@@ -101,6 +101,8 @@ Log in as Jane Doe. Find Ticket 661413 in the Open Tickets list and begin workin
 </p>
 <p>
 Determine the solution to the ticket issue. Record your findings in the ticket thread. Close the ticket. 
+</p>
+<p>
 <img src="https://imgur.com/Pqw5oxK.png" alt="Jane Doe Ticket Solution"/>
 </p>
 <p>

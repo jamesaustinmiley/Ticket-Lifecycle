@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle Examples</h1>
-This tutorial outlines the lifecycle of a ticket, from becoming aware of whatever issue the ticket is created to resolve to the resolution of the issue, within the open-source help desk ticketing system osTicket. Two tickets will be shown to illustrate the ticket lifecycle. OsTicket is used to manage both internal and external requests via e-mail, phone, or the company website. These requests are then converted into tickets that can be tracked and completed. <br />
+This tutorial outlines the lifecycle of a ticket, from becoming aware of whatever issue the ticket is created to resolve to the resolution of the issue, within the open-source help desk ticketing system osTicket. Three tickets will be shown to illustrate the ticket lifecycle. OsTicket is used to manage both internal and external requests via e-mail, phone, or the company website. These requests are then converted into tickets that can be tracked and completed. <br />
 
 
 <h2>Environments and Technologies Used</h2>

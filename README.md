@@ -19,65 +19,90 @@ This tutorial outlines the lifecycle of a ticket, from becoming aware of whateve
 <h2>Lifecycle Stages</h2>
 
 <p>
+Open the End Users osTicket page to create a ticket as one of the two users that you added earlier. 
+</p>
+<p>
+<img src="https://imgur.com/ic6alw6.png" alt="End Users"/>
+</p>
+<p>
+<img src="https://imgur.com/ZQZBQ00.png" alt="New Ticket"/>
+</p>
+<p>
 The first ticket is created by an end-user named Karen. Karen works at a bank that is currently experiencing an outage in its online banking system.
 </p>
 <p>
-<img src="https://imgur.com/xVtrYGH.png" alt="Support Center"/>
+<img src="https://imgur.com/v7W5vHf.png" alt="Karen"/>
 </p>
 <p>
-<img src="https://imgur.com/kKcGxql.png" alt="Online Banking System Outage"/>
-</p>
-<br />
-
-<p>
-Log in to osTicket as a Help Desk Agent (John) to observe and set the ticket's properties. At first, you will notice that John is only allowed to view the ticket and not make changes. Make sure John, a member of the Support Department, is granted All Access so you can set ticket properties. As John, you will update the Priority Level, SLA plan, Help Topic, and Department, and assign the ticket to Jane, a member of the SysAdmins department with administrative privileges, after determining that the ticket needs to be escalated to a higher department.
-</p>
-<p>
-<img src="https://imgur.com/OmbEz2H.png" alt="New Ticket"/>
-</p>
-<p>
-<img src="https://imgur.com/LShlDYz.png" alt="Ticket 415627"/>
-</p>
-<p>
-<img src="https://imgur.com/XgnXcuG.png" alt="All Access"/>
-</p>
-<p>
-<img src="https://imgur.com/LIHWa6f.png" alt="Emergency"/>
-</p>
-<p>
-<img src="https://imgur.com/ErVsrAJ.png" alt="Sev-A"/>
-</p>
-<p>
-<img src="https://imgur.com/0AHMob6.png" alt="Business Critical Outage"/>
-</p>
-<p>
-<img src="https://imgur.com/J7Sw7Yi.png" alt="Messages"/>
-</p>
-<p>
-<img src="https://imgur.com/lW9X4EJ.png" alt="Jane Doe"/>
-</p>
-<p>
-<img src="https://imgur.com/ZCiB8x1.png" alt="SysAdmins"/>
+<img src="https://imgur.com/qdC4MkK.png" alt="Online Banking System Outage"/>
 </p>
 <br />
 
 <p>
-Log back into osTicket as Jane and work the ticket to completion. You determined that the online banking system outage was caused by a configuration issue, which was resolved after a system restart.
+Log in to the Admin/Analyst page as John Doe, one of the agents that you added earlier. John is a member of the Support Department with All Access so he can set ticket properties. Find the new ticket in the list of open tickets. 
 </p>
 <p>
-<img src="https://imgur.com/E8j60we.png" alt="Open Ticket"/>
+<img src="https://imgur.com/2hZCcpS.png" alt="Admin"/>
 </p>
 <p>
-<img src="https://imgur.com/vlybYVb.png" alt="Ticket Observation"/>
+<img src="https://imgur.com/B8I3RDZ.png" alt="John"/>
 </p>
 <p>
-<img src="https://imgur.com/S3sknJ8.png" alt="Ticket Observation 2"/>
+<img src="https://imgur.com/mrffLCf.png" alt="Open Ticket"/>
 </p>
 <p>
-<img src="https://imgur.com/6hx0tca.png" alt="Ticket Resolution"/>
+Open the ticket to view its properties and the details surrounding the ticket. 
 </p>
 <p>
-<img src="https://imgur.com/XyiVPIU.png" alt="Close Ticket"/>
+<img src="https://imgur.com/WfDLdRm.png" alt="Ticket 661413"/>
+</p>
+<p>
+Update the Priority Level of the ticket from Normal to Emergency.  
+</p>
+<p>
+<img src="https://imgur.com/IcExPdH.png" alt="Emergency"/>
+</p>
+<p>
+Update the SLA Plan from Default to Sev-A.
+</p>
+<p>
+<img src="https://imgur.com/5oCVBEv.png" alt="Sev-A"/>
+</p>
+<p>
+Update the Help Topic from Other to Business Critical Outage. 
+</p>
+<p>
+<img src="https://imgur.com/XjtekfV.png" alt="Business Critical Outage"/>
+</p>
+<p>
+<img src="https://imgur.com/FNfgwjL.png" alt="Ticket Thread"/>
+</p>
+<p>
+John Doe has determined that the ticket needs to be escalated to a higher department. The ticket will be worked to completion by Jane Doe, a Supreme Admin in the SysAdmins Department. 
+</p>
+<p>
+<img src="https://imgur.com/TjdDYym.png" alt="Assign to Jane Doe"/>
+</p>
+<p>
+<img src="https://imgur.com/8kgL4Ww.png" alt="SysAdmins"/>
+</p>
+<br />
+
+<p>
+Log in as Jane Doe. Find Ticket 661413 in the Open Tickets list and begin working the ticket to completion. 
+</p>
+<p>
+<img src="https://imgur.com/SJMpuNT.png" alt="Jane"/>
+</p>
+<p>
+<img src="https://imgur.com/cgg7UcH.png" alt="Jane Open Tickets"/>
+</p>
+<img src="https://imgur.com/QaP9XZj.png" alt="Jane Ticket 661413"/>
+</p>
+<img src="https://imgur.com/Pqw5oxK.png" alt="Jane Doe Ticket Solution"/>
+</p>
+<p>
+<img src="https://imgur.com/wKlk1Ft.png" alt="Jane Doe Close Ticket"/>
 </p>
 <br />
 

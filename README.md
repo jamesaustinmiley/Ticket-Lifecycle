@@ -111,7 +111,7 @@ Determine the solution to the ticket issue. Record your findings in the ticket t
 <br />
 
 <p>
-The second ticket was created by an end user named Ken. The ticket states that some people in the accounting department are unable to use Adobe Reader. Once again, log in to osTicket as John, the help desk agent, to review the ticket and update its properties as needed. After updating the Priority Level and SLA Plan, you determine that you can work the ticket to completion without assigning the ticket to anyone else. The issue stems from the deployment of an update for Adobe Reader. Once the update was manually installed for the affected people, the issue was resolved. 
+ 
 </p>
 <p>
 <img src="https://imgur.com/xP2XG0o.png" alt="Ken's Ticket"/>

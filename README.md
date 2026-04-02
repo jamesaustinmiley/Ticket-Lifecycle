@@ -111,26 +111,118 @@ Determine the solution to the ticket issue. Record your findings in the ticket t
 <br />
 
 <p>
- 
+The second ticket is created by an end user named Ken. Ken works in the accounting Department and has reported that some people in the department are unable to use Adobe Reader. 
 </p>
 <p>
-<img src="https://imgur.com/xP2XG0o.png" alt="Ken's Ticket"/>
+<img src="https://imgur.com/eupP9eM.png" alt="Open a New Ticket"/>
 </p>
 <p>
-<img src="https://imgur.com/IKJ96fz.png" alt="John's Ticket"/>
+<img src="https://imgur.com/yWQgtUt.png" alt="Ken's Ticket"/>
 </p>
 <p>
-<img src="https://imgur.com/SUKtRha.png" alt="Ticket 341683"/>
+<img src="https://imgur.com/50TrZnn.png" alt="Adobe Reader"/>
+</p>
+<br />
+
+<p>
+Log in to the Admin/Analyst page as John Doe and open the ticket to view its properties and begin working it to completion. 
 </p>
 <p>
-<img src="https://imgur.com/8aQcA8t.png" alt="Update Priority Level"/>
+<img src="https://imgur.com/8YmKzkw.png" alt="John Doe"/>
 </p>
 <p>
-<img src="https://imgur.com/tBjEqAq.png" alt="Update SLA Plan"/>
+<img src="https://imgur.com/9zcnT6X.png" alt="Open"/>
 </p>
 <p>
-<img src="https://imgur.com/dLV5AzL.png" alt="Ticket Resolution"/>
+<img src="https://imgur.com/zyxFqGw.png" alt="Ticket 543862"/>
 </p>
 <p>
-<img src="https://imgur.com/t4gZoDA.png" alt="Closing Ticket"/>
+Update Priority Level from Normal to High. 
+</p>
+<p>
+<img src="https://imgur.com/Jaf4BMW.png" alt="Priority"/>
+</p>
+<p>
+Update the SLA Plan from Default to Sev-B. 
+</p>
+<p>
+<img src="https://imgur.com/BmEa1Ij.png" alt="SLA Plan"/>
+</p>
+<p>
+Determine the solution to the ticket issue. Record your findings in the ticket thread. Close the ticket.
+</p>
+<p>
+<img src="https://imgur.com/HttdT6s.png" alt="Ticket Thread"/>
+</p>
+<p>
+<img src="https://imgur.com/viBagvg.png" alt="Adobe Reader Solution"/>
+</p>
+<p>
+<img src="https://imgur.com/pcHbc64.png" alt="Close Ticket 543862"/>
+</p>
+<br />
+
+<p>
+The final ticket was created by Ken. This time, Ken is reporting that he is unable to log into the accounting system due to his password not being accepted. 
+</p>
+<p>
+<img src="https://imgur.com/N568390.png" alt="ONT"/>
+</p>
+<p>
+<img src="https://imgur.com/Rkc0odW.png" alt="Ken's New Ticket"/>
+</p>
+<p>
+<img src="https://imgur.com/sDFw7Ni.png" alt="Log In Failure"/>
+</p>
+<br />
+
+<p>
+Log in to the Admin/Analyst page as John Doe and open the ticket to view its properties.
+</p>
+<p>
+<img src="https://imgur.com/gNebM3v.png" alt="John Doe"/>
+</p>
+<p>
+<img src="https://imgur.com/jvEDxIa.png" alt="OT"/>
+</p>
+<p>
+<img src="https://imgur.com/rp0P1Yf.png" alt="Ticket 449225"/>
+</p>
+<p>
+Update Priority Level from High to Normal.
+</p>
+<p>
+<img src="https://imgur.com/zKLschJ.png" alt="PL"/>
+</p>
+<p>
+Begin working the ticket to completion. 
+</p>
+<p>
+<img src="https://imgur.com/WFkiGZA.png" alt="Ticket Thread 1"/>
+</p>
+<p>
+Update the SLA from Default to Sev-C.
+</p>
+<p>
+<img src="https://imgur.com/e8QAO68.png" alt="Sev-C"/>
+</p>
+<p>
+Determine the solution to the ticket issue. Record your findings in the ticket thread. Close the ticket.
+</p>
+<p>
+<img src="https://imgur.com/frwmIdf.png" alt="Ticket Thread 2"/>
+</p>
+<p>
+<img src="https://imgur.com/I8ipXEU.png" alt="Close Ticket 449225"/>
+</p>
+<br />
+
+<p>
+The way to find tickets that have been closed or resolved is to conduct an Advanced Ticket Search. 
+</p>
+<p>
+<img src="https://imgur.com/jmtlvcx.png" alt="Advanced Ticket Search" alt="ATS"/>
+</p>
+<p>
+<img src="https://imgur.com/LKAUbA6.png" alt="Ticket Status"/>
 </p>

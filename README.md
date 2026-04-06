@@ -11,6 +11,8 @@ This tutorial outlines the lifecycle of a ticket, from becoming aware of whateve
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- HeidiSQL
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
